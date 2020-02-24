@@ -51,7 +51,6 @@ void conversion(){
     while(!vacia()){
         polaca[arr++]=pop();
     }
-    polaca[arr] ='\0';
 }
 
 int prioridad(char op){
