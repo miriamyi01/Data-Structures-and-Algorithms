@@ -1,3 +1,5 @@
+//Reyes Mendoza Miriam Guadalupe
+//Grupo 17 - IC (UNAM)
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
