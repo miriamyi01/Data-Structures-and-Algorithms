@@ -70,8 +70,8 @@ int prioridad(char op){
 }
 
 void push(int op){
-    tope=tope + 1;
-    pila[tope] = op;
+    tope=tope+1;
+    pila[tope]=op;
 }
 
 int pop(){
