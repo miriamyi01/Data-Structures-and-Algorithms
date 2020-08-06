@@ -3,7 +3,7 @@
 
 int main (){
     int *arreglo, *arreglo2, num, cont;
-    printf("¿Cuántos elementos tiene el conjunto?\n");
+    printf("Â¿CuÃ¡ntos elementos tiene el conjunto?\n");
     scanf("%d",&num);
     arreglo = (int *)malloc (num * sizeof(int));
     if (arreglo!=NULL) {
@@ -16,7 +16,7 @@ int main (){
             printf("\t%d",*(arreglo+cont));
         }
         printf("\t]\n");
-        printf("Aumentando el tamaño del conjunto al doble.\n");
+        printf("Aumentando el tamaÃ±o del conjunto al doble.\n");
         num *= 2;
         arreglo2 = (int *)realloc (arreglo,num*sizeof(int));
         if (arreglo2 != NULL){
