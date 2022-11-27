@@ -1,2 +1,2 @@
-# EDA-I
-Estructura de Datos y Algoritmos 1
+# Data structures and algorithms
+Practices on the principles for data structure and algorithms.
